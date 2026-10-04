@@ -4,7 +4,7 @@
 
 ### 💻 Computer Engineering Student | Flutter Developer | .NET Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;C%23+%26+.NET+Learner+%F0%9F%92%BB;Building+Projects+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Computer+Engineer+%F0%9F%93%B1;C%23+%26+.NET+and+Flutter+Learner+%F0%9F%92%BB;Building+Projects+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%8C%B1" />
 
 </div>
 
